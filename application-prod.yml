@@ -1,6 +1,7 @@
 spring:
   application]: 
-    name: ConFig-Produd
+    name: ConFig-PR1
+
 eureka:
   instance:
      prefer-ip-address: true
